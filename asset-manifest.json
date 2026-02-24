@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/galleryCrystall/static/css/main.17dde607.css",
+    "main.js": "/galleryCrystall/static/js/main.d1461b58.js",
+    "static/media/footerBG.mp4": "/galleryCrystall/static/media/footerBG.8b94cfd034c9e6fb860e.mp4",
+    "static/media/sapphire.avif": "/galleryCrystall/static/media/sapphire.b0900235950ab8d2e209.avif",
+    "static/media/ruby.avif": "/galleryCrystall/static/media/ruby.1583875ba1875e083889.avif",
+    "static/media/chrysolite.avif": "/galleryCrystall/static/media/chrysolite.5eadf57581c8cb55f5fb.avif",
+    "static/media/citrine.avif": "/galleryCrystall/static/media/citrine.5dd9d1be09b5a6acc421.avif",
+    "static/media/amethyst.avif": "/galleryCrystall/static/media/amethyst.8b43027eafaa9923d034.avif",
+    "static/media/amber.webp": "/galleryCrystall/static/media/amber.cc0fe0ab003b0bcd4d28.webp",
+    "static/media/lapisLazuli.webp": "/galleryCrystall/static/media/lapisLazuli.f9f0cc942a3991eb5b24.webp",
+    "static/media/opal.webp": "/galleryCrystall/static/media/opal.66adced7c455650008d1.webp",
+    "static/media/peridot.webp": "/galleryCrystall/static/media/peridot.fc2b9299efa197d299c9.webp",
+    "static/media/tanzanite.webp": "/galleryCrystall/static/media/tanzanite.8c64d51ad753bbdfaa06.webp",
+    "static/media/logo.jpg": "/galleryCrystall/static/media/logo.75de57bcea2c0481ed88.jpg",
+    "static/media/garnet.webp": "/galleryCrystall/static/media/garnet.2ff68aec62835ddc5996.webp",
+    "index.html": "/galleryCrystall/index.html",
+    "main.17dde607.css.map": "/galleryCrystall/static/css/main.17dde607.css.map",
+    "main.d1461b58.js.map": "/galleryCrystall/static/js/main.d1461b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17dde607.css",
+    "static/js/main.d1461b58.js"
+  ]
+}
